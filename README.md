@@ -5,9 +5,9 @@ La CNMC publica con carácter mensual y trimestral datos estadísticos del Secto
 
 Esta es la estructura del proyecto : 
 
-.
-├── code                  # Scripts en Python 
-├── img                   # ficheros con los gráficos generados
-├── data                  # información descargada del repo de CNMC
-└── README.md
+.  
+├── code                  # Scripts en Python.    
+├── img                   # ficheros con los gráficos generados.  
+├── data                  # información descargada del repo de CNMC.  
+└── README.md   
 
