@@ -9,5 +9,5 @@ Esta es la estructura del proyecto :
 ├── code                  # Scripts en Python.    
 ├── img                   # ficheros con los gráficos generados.  
 ├── data                  # información descargada del repo de CNMC.  
-└── README.md   
+└── README.md             # este fochero README.md
 
